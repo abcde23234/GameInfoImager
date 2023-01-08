@@ -6,4 +6,4 @@ description: "Show the range of turrets and units.\nShow the units the next wave
 version: "1.2"
 hidden: "true"
 
-minGameVersion: 135
+minGameVersion: 136
